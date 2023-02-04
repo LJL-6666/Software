@@ -1,4 +1,4 @@
-# 功能点名词处理软件
+# 功能点文档自动生成软件
 此软件目前不开源，如果有个性化需求，请联系15510604620（同微信）
 ### demo展示
 ![image](https://user-images.githubusercontent.com/60246446/216755717-3e092ebe-62df-42eb-94de-e7aba129dea5.png)
